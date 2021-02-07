@@ -1,9 +1,0 @@
-F:\Study\C#\C# Code\hello\hello\bin\Debug\hello.exe.config
-F:\Study\C#\C# Code\hello\hello\bin\Debug\hello.exe
-F:\Study\C#\C# Code\hello\hello\bin\Debug\hello.pdb
-F:\Study\C#\C# Code\hello\hello\obj\Debug\hello.csprojAssemblyReference.cache
-F:\Study\C#\C# Code\hello\hello\obj\Debug\hello.Properties.Resources.resources
-F:\Study\C#\C# Code\hello\hello\obj\Debug\hello.csproj.GenerateResource.cache
-F:\Study\C#\C# Code\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
-F:\Study\C#\C# Code\hello\hello\obj\Debug\hello.exe
-F:\Study\C#\C# Code\hello\hello\obj\Debug\hello.pdb

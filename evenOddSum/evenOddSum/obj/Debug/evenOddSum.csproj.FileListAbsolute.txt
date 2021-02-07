@@ -1,0 +1,7 @@
+F:\Study\C#\C# Code\evenOddSum\evenOddSum\bin\Debug\evenOddSum.exe.config
+F:\Study\C#\C# Code\evenOddSum\evenOddSum\bin\Debug\evenOddSum.exe
+F:\Study\C#\C# Code\evenOddSum\evenOddSum\bin\Debug\evenOddSum.pdb
+F:\Study\C#\C# Code\evenOddSum\evenOddSum\obj\Debug\evenOddSum.csprojAssemblyReference.cache
+F:\Study\C#\C# Code\evenOddSum\evenOddSum\obj\Debug\evenOddSum.csproj.CoreCompileInputs.cache
+F:\Study\C#\C# Code\evenOddSum\evenOddSum\obj\Debug\evenOddSum.exe
+F:\Study\C#\C# Code\evenOddSum\evenOddSum\obj\Debug\evenOddSum.pdb

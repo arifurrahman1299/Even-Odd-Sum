@@ -1,0 +1,7 @@
+F:\8th Semester\C#\C# Code\Lab task 3 14-02-21\Lab task 3 14-02-21\obj\Debug\Lab task 3 14-02-21.csprojAssemblyReference.cache
+F:\8th Semester\C#\C# Code\Lab task 3 14-02-21\Lab task 3 14-02-21\obj\Debug\Lab task 3 14-02-21.csproj.CoreCompileInputs.cache
+F:\8th Semester\C#\C# Code\Lab task 3 14-02-21\Lab task 3 14-02-21\bin\Debug\Lab task 3 14-02-21.exe.config
+F:\8th Semester\C#\C# Code\Lab task 3 14-02-21\Lab task 3 14-02-21\bin\Debug\Lab task 3 14-02-21.exe
+F:\8th Semester\C#\C# Code\Lab task 3 14-02-21\Lab task 3 14-02-21\bin\Debug\Lab task 3 14-02-21.pdb
+F:\8th Semester\C#\C# Code\Lab task 3 14-02-21\Lab task 3 14-02-21\obj\Debug\Lab task 3 14-02-21.exe
+F:\8th Semester\C#\C# Code\Lab task 3 14-02-21\Lab task 3 14-02-21\obj\Debug\Lab task 3 14-02-21.pdb

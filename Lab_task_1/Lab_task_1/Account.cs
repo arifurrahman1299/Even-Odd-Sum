@@ -12,27 +12,25 @@ namespace Lab_task_1
         string acId;
         int balance;
 
-        void ShowCourseInfo()
-        {
-            Console.WriteLine("AccName :" + accName);
-            Console.WriteLine("AcId :" + acId);
-            Console.WriteLine("Balance :" + balance);
-        }
-        public string AccName
-        {
-            get { return accName; }
-            set { accName = value; }
-        }
-        public string AcId
-        {
-            get { return acId; }
-            set { acId = value; }
-        }
-        public int Balance
-        {
-            get { return balance; }
-            set { balance = value; }
-        }
+        public string AccName { get => accName; set => accName = value; }
+        public string AcId { get => acId; set => acId = value; }
+        public int Balance { get => balance; set => balance = value; }
 
+        public void Deposit(int amount)
+        {
+            if (amount > 0)
+            {
+                Balance = Balance + amount;
+                Console.WriteLine("Added amount =" + balance);
+            }
+        }
+        public void Withdraw(int amount)
+        {
+            if (amount <= balance || amount > 0)
+            {
+                Balance = Balance - amount;
+                Console.WriteLine("Left amount =" + balance);
+            }
+        }
     }
 }

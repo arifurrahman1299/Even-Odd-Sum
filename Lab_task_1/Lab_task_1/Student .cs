@@ -7,14 +7,13 @@ using System.Threading.Tasks;
 namespace Lab_task_1
 {
     class Student
-
     {
         string name;
         string id;
         string department;
         float cgpa;
 
-        void ShowInfo()
+        public void ShowInfo()
         {
             Console.WriteLine("Name :" + name);
             Console.WriteLine("ID :" + id);

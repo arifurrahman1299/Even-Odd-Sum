@@ -12,7 +12,7 @@ namespace Lab_task_1
         string courseCode;
         int courseCredit;
 
-        void ShowCourseInfo()
+        public void ShowCourseInfo()
         {
             Console.WriteLine("CourseName :" + courseName);
             Console.WriteLine("CourseCode :" + courseCode);
@@ -33,6 +33,6 @@ namespace Lab_task_1
             get { return courseCredit; }
             set { courseCredit = value; }
         }
-        
+
     }
 }

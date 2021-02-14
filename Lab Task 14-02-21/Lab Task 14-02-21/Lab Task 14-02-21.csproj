@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2A8B0391-A264-4701-B255-54D578E45F06}</ProjectGuid>
+    <ProjectGuid>{09E1FEFB-7268-4266-8239-8FC3BD0B7FDC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lab_task_1</RootNamespace>
-    <AssemblyName>Lab_task_1</AssemblyName>
+    <RootNamespace>Lab_Task_14_02_21</RootNamespace>
+    <AssemblyName>Lab Task 14-02-21</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
-    <Compile Include="Programme.cs" />
-    <Compile Include="Course.cs" />
-    <Compile Include="Student .cs" />
-    <Compile Include="Triangle.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
